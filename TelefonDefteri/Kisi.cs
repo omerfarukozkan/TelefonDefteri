@@ -9,5 +9,7 @@ namespace TelefonDefteri
     public class Kisi
     {
         //Kisi bilgileri yer alacak.
+        string ad = "Ömer Faruk", soyad = "ÖZKAN";
+
     }
 }
