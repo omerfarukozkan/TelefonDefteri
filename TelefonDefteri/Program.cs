@@ -11,6 +11,7 @@ namespace TelefonDefteri
         static void Main(string[] args)
         {
             Console.WriteLine("Telefon modelim samsung");
+            Console.WriteLine("Telefon modelim iPhone");
         }
     }
 }
