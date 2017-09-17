@@ -10,7 +10,7 @@ namespace TelefonDefteri
     {
         static void Main(string[] args)
         {
-            //
+            //Merhaba Dünya
         }
     }
 }
